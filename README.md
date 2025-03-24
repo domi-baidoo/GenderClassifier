@@ -1,11 +1,6 @@
 # GenderClassifier
 This project implements gender classification based on height, weight, and shoe size using various machine learning models from scikit-learn. The goal is to predict whether a person is Male or Female given their physical attributes.
 
-# Gender Classifier
-
-## Overview
-This is a simple machine learning project that predicts gender based on height, weight, and shoe size. The model is built using a decision tree classifier from the `sklearn` library and is deployed using `Streamlit` for a user-friendly web interface.
-
 ## Features
 - Accepts user input for height (cm), weight (kg), and shoe size (US)
 - Uses a decision tree classifier to predict gender
